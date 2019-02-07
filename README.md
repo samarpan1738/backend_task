@@ -1,7 +1,7 @@
 # BackEnd Task
 ## Routes
-*GET    /getAllPersons
-*GET    /getPersonById?id=1
-*GET    /searchByCollegeName?key=DTU
-*POST   /addPerson/
-*DELETE /deleteById?id=1
+*GET    /getAllPersons <br />
+*GET    /getPersonById?id=1 <br />
+*GET    /searchByCollegeName?key=DTU <br />
+*POST   /addPerson/ <br />
+*DELETE /deleteById?id=1 <br />
