@@ -1,5 +1,5 @@
-##BackEnd Task
-#Routes
+# BackEnd Task
+## Routes
 *GET    /getAllPersons
 *GET    /getPersonById?id=1
 *GET    /searchByCollegeName?key=DTU
